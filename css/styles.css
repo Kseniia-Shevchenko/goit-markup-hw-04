@@ -515,8 +515,8 @@ transition-duration: 250ms;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-icon-link:hover
-.footer-icon-link:focus {
+.footer-icon-link:hover,
+ .footer-icon-link:focus {
     background-color: #31d0aa;
 }
 
