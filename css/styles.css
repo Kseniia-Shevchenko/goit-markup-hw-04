@@ -445,7 +445,7 @@ padding: 100px 0;
 }
 
 .cont-title {
-   
+    
 }
 
 .footer-title {
@@ -482,9 +482,9 @@ padding: 100px 0;
 }
 
 .cont-icon-footer {
-        display: flex;
-        align-items: baseline;
-        margin-right: 120px;
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
 }
 
 .cont-icon-text {
@@ -493,6 +493,7 @@ padding: 100px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
+    margin-bottom: 16px;
 }
 
 .footer-list-icon {
