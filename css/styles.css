@@ -159,7 +159,8 @@ gap: 40px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .solutions-wrap {
@@ -223,8 +224,6 @@ padding-bottom: 120px;
 .features-list {
 display: flex;
 gap: 24px;
-padding-top: 120px;
-padding-bottom: 120px;
 }
 
 .features-item {
@@ -314,15 +313,14 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     text-align: center;
     color: #434455;  
     background-color: #FFFFFF;
+    margin-bottom: 8px;
 }
 
 .team-item-list {
     gap: 24px;
-    padding: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .team-icon {
@@ -419,7 +417,6 @@ overflow: hidden;
 
 .portfolio-subtitle-wrap {
     padding: 32px 16px;
-    margin-bottom: 8px;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
@@ -488,10 +485,8 @@ padding: 100px 0;
 }
 
 .cont-icon-footer {
-    display: flex;
     align-items: baseline;
     flex-wrap: wrap;
-    margin-right: 120px;
 }
 
 .cont-icon-text {
